@@ -11,7 +11,7 @@ export default function PromoBannerContent({ tenant }: PromoBannerContentProps) 
       case "ID":
         return {
           title: "Promo Spesial Indonesia! 🎉",
-          description: "Dapatkan diskon 50% untuk pengguna baru!",
+          description: "Dapatkan diskon 800% untuk pengguna baru!",
           cta: "Klaim Sekarang",
           bgColor: "from-red-500 to-orange-600",
         }
